@@ -1,0 +1,2 @@
+The code sample given is of Angular 2 and is a component which renders 3 input boxes for dd - mm - yyyy
+Also some validations are applied to only receive numeric values & add a preceding 0 when value is lesser than 10 on these text boxes
